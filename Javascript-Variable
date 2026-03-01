@@ -1,0 +1,44 @@
+// Exercise #1: Variable Creation
+// Start coding here
+let name = "Karter";
+let lastName = "Anderson";
+let address = "54/24 Gp 5 Bangkruay-Sainoi Bang Kruay Bang Kruai";
+const restaurantName = "Chef's Table by Chef James";
+const foodPrice = 15000;
+const restaurantAmount = 1500;
+console.log(name)
+console.log(lastName)
+console.log(address)
+console.log(address)
+console.log(restaurantName)
+console.log(restaurantAmount)
+
+// Exercise #2: Variable Reassignment
+// Start coding here
+
+address = "(970) 878-53292400 County Rd #4Meeker, Colorado(CO), 81641";
+console.log(address)
+//foodPrice = 5000;
+//restaurantAmount = 2500;
+console.log(foodPrice)
+console.log(restaurantAmount)
+
+// Exercise #3: Celsius to Fahrenheit
+let celsius = 30;
+// Start coding here
+let fahrenheit = (celsius * 1.8) + 32;
+console.log(fahrenheit)
+
+// Exercise #4: What are Expressions
+130 + 300; // Expression
+let zero = 1000 - 1000;
+20 * 120; // Expression
+1000 / 2; // Expression
+typeof true;
+//let name = "John";
+3 > 5; // Expression
+10 == 100; // Expression
+200; // Expression
+
+
+
